@@ -6,24 +6,25 @@ We are a hub for researchers at **University College London** focused on electro
 
 ## 📅 Upcoming Events
 
-| Event Type | Details | Date & Time |
-| :--- | :--- | :--- |
-| **🎤 Seminar** | **Barbara Haendel**<br>_"How movement and cognition are linked – Evidence from Mobile EEG"_ | **Feb 24, 2026**<br>14:30 |
-| **🛠️ Methods** | **Gordon Mills**<br>_Open Discussion on Analysis Pipelines_ | **Apr 29**<br>15:00 |
+### Next Seminar: Barbara Haendel
+* **Topic:** "How movement and cognition are linked – Evidence from Mobile EEG"
+* **Date:** Tuesday, February 24, 2026
+* **Time:** 14:30
+* **Venue:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square, London WC1N 3AR
 
-> **📍 Venue:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square, London WC1N 3AR
+### 🛠️ Next Methods Meeting
+* **Speaker:** Gordon Mills
+* **Date:** April 29 at 15:00
 
 ---
 
-## 🤝 How to Join Us
+##  How to Join Us
 
 Since we are just getting started, we are actively looking for new members to join the conversation!
 
-> **🚀 Quick Links**
+> ** Quick Links**
 >
-> * **Microsoft Teams:** [**Click here to join the Channel**](YOUR_LINK_HERE)
-> * **Mailing List:** Email t.buidze@ucl.ac.uk to get monthly updates.
+> * **Microsoft Teams:** [**Click here to join the Channel**](https://liveuclac.sharepoint.com/:u:/r/sites/UCL-EEGcommunity-Admin/Shared%20Documents/Admin/Links/Teams%20link.url?csf=1&web=1&e=HPm0Tj)
+> * **Mailing List:** Email t.buidze@ucl.ac.uk to get event updates.
 
----
 
-*Maintained by the UCL EEG Community.*
