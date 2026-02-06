@@ -4,12 +4,12 @@ description: "Hub for EEG researchers at University College London"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air" # Options: "default", "air", "aqua", "contrast", "dark", "neon"
 locale: "en-GB"
-logo: "/logo.png" # Assumes you uploaded logo.png to your main folder
+logo: "/logo.jpg" # Assumes you uploaded logo.png to your main folder
 
 # This creates the sidebar with your logo
 author:
   name: "UCL EEG Community"
-  avatar: "/logo.png"
+  avatar: "/logo.jpg"
   bio: "Connecting researchers across Queen Square & UCL."
   location: "London, UK"
   links:
