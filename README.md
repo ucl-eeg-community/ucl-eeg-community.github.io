@@ -12,7 +12,7 @@ We are a hub for researchers at **University College London** focused on electro
 * **Time:** 14:30
 * **Venue:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square, London WC1N 3AR
 
-### 🛠️ Next Methods Meeting
+### Next Methods Meeting
 * **Speaker:** Gordon Mills
 * **Date:** April 29 at 15:00
 
