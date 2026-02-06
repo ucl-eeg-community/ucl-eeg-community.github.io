@@ -22,7 +22,6 @@ We are a hub for researchers at **University College London** focused on electro
 
 Since we are just getting started, we are actively looking for new members to join the conversation!
 
-> ** Quick Links**
 >
 > * **Microsoft Teams:** [**Click here to join the Channel**](https://liveuclac.sharepoint.com/:u:/r/sites/UCL-EEGcommunity-Admin/Shared%20Documents/Admin/Links/Teams%20link.url?csf=1&web=1&e=HPm0Tj)
 > * **Mailing List:** Email t.buidze@ucl.ac.uk to get event updates.
