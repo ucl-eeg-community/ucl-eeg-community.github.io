@@ -32,15 +32,7 @@ permalink: /team/
 
 # Meet the Community
 
-Here are the key contributors to the UCL EEG Community.
-
-## Steering Committee
-* **[Name 1]**: Professor of Neuroscience. Focus: Source Localization.
-* **[Name 2]**: Postdoc Fellow. Focus: Real-time BCI.
-
-## PhD Students
-* **[Student A]**: Working on auditory evoked potentials.
-* **[Student B]**: Working on pediatric EEG pipelines.
+(The rest of your text...)
 
 ## Join Us
 We are always looking for new members. [Contact us](mailto:your-email@ucl.ac.uk) to get involved!
