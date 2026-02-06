@@ -2,9 +2,9 @@
 
 We are a hub for researchers at **University College London** focused on electroencephalography (EEG), signal processing, and neuroimaging. Our goal is to connect researchers across divisions, share knowledge, and build a friendly and supportive network for anyone working with or interested in EEG methods.
 
----
 
-## 📅 Upcoming Events
+
+## Upcoming Events
 
 ### Next Seminar: Barbara Haendel
 * **Topic:** "How movement and cognition are linked – Evidence from Mobile EEG"
@@ -16,7 +16,7 @@ We are a hub for researchers at **University College London** focused on electro
 * **Speaker:** Gordon Mills
 * **Date:** April 29 at 15:00
 
----
+
 
 ##  How to Join Us
 
