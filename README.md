@@ -7,14 +7,16 @@ We are a hub for researchers at **University College London** focused on electro
 ## Upcoming Events
 
 ### Next Seminar: Barbara Haendel
-* **Topic:** "How movement and cognition are linked – Evidence from Mobile EEG"
-* **Date:** Tuesday, February 24, 2026
-* **Time:** 14:30
-* **Venue:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square, London WC1N 3AR
+> **"How movement and cognition are linked – Evidence from Mobile EEG"**
+>
+> * **Date:** Tuesday, February 24, 2026
+> * **Time:** 14:30
+> * **Location:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square
 
-### Next Methods Meeting
-* **Speaker:** Gordon Mills
-* **Date:** April 29 at 15:00
+### Methods Meeting
+>
+> * **Speaker:** Gordon Mills
+> * **Date:** April 29 at 15:00
 
 
 
