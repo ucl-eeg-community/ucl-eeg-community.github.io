@@ -22,7 +22,7 @@ Since we are just getting started, we are actively looking for new members to jo
 > **🚀 Quick Links**
 >
 > * **Microsoft Teams:** [**Click here to join the Channel**](YOUR_LINK_HERE)
-> * **Mailing List:** Email [t.buidze@ucl.ac.uk] to get monthly updates.
+> * **Mailing List:** Email t.buidze@ucl.ac.uk to get monthly updates.
 
 ---
 
