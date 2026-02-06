@@ -1,4 +1,25 @@
 title: UCL EEG Community
-description: Hub for EEG researchers at University College London
-theme: jekyll-theme-cayman
-logo: Artboard 2_5@600x-100.jpg
+name: "UCL EEG Community"
+description: "Hub for EEG researchers at University College London"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air" # Options: "default", "air", "aqua", "contrast", "dark", "neon"
+locale: "en-GB"
+logo: "/logo.png" # Assumes you uploaded logo.png to your main folder
+
+# This creates the sidebar with your logo
+author:
+  name: "UCL EEG Community"
+  avatar: "/logo.png"
+  bio: "Connecting researchers across Queen Square & UCL."
+  location: "London, UK"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:your-email@ucl.ac.uk"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ucl-eeg-community"
+
+# This enables the "Applause" button and other plugins
+plugins:
+  - jekyll-include-cache
