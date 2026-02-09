@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/ucl-eeg-community/ucl-eeg-community.github.io/main/logo.png" 
-     alt="UCL EEG Logo" 
-     style="position: absolute; top: -280px; right: 30px; width: 250px; z-index: 9999;">
+
 # Welcome to the UCL EEG Community
 
 We are a hub for researchers at **University College London** focused on electroencephalography (EEG), signal processing, and neuroimaging. Our goal is to connect researchers across divisions, share knowledge, and build a friendly and supportive network for anyone working with or interested in EEG methods.
