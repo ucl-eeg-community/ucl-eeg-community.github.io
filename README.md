@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ucl-eeg-community/ucl-eeg-community.github.io/main/logo.png" 
      alt="UCL EEG Logo" 
-     style="position: absolute; top: -200px; left: -260px; width: 330px; z-index: 9999; box-shadow: none; background: transparent;">
+     style="position: absolute; top: -240px; left: -260px; width: 330px; z-index: 9999; box-shadow: none; background: transparent;">
 
 # Welcome to the UCL-EEG Community
 
