@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ucl-eeg-community/ucl-eeg-community.github.io/main/logo.png" 
      alt="UCL EEG Logo" 
-     style="position: absolute; top: -240px; left: -260px; width: 330px; z-index: 9999; box-shadow: none; background: transparent;">
+     style="position: absolute; top: -230px; left: -260px; width: 330px; z-index: 9999; box-shadow: none; background: transparent;">
 
 # Welcome to the UCL-EEG Community
 
@@ -27,4 +27,4 @@ Since we are just getting started, we are actively looking for new members to jo
 
 >
 > * **Microsoft Teams (from within UCL):** [**Click here to join the Channel**](https://liveuclac.sharepoint.com/:u:/r/sites/UCL-EEGcommunity-Admin/Shared%20Documents/Admin/Links/Teams%20link.url?csf=1&web=1&e=HPm0Tj)
-> * **Email** landaulab@mail.huji.ac.il.
+> * **Email:** landaulab@mail.huji.ac.il.
