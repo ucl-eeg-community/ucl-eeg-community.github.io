@@ -23,10 +23,10 @@ We are a hub for researchers at **University College London** focused on electro
 
 ## Past Events
 
-* **20 Jan 2026** | **Jason Da Silva Castanheira** | *Rapid Invisible Frequency Tagging to Track the Neural Dynamics of Subjective Experiences*
-* **25 Nov 2025** | **Launch Event** | *Introductions & Vision*
-    * **Laura Rai:** *The neurocognition of liveness*
-    * **Tatia Buidze:** *Neural encoding of communicative surprise: A model-based EEG approach*
+* **20 Jan 2026:** Jason Da Silva Castanheira – *Rapid Invisible Frequency Tagging to Track the Neural Dynamics of Subjective Experiences*
+* **25 Nov 2025:** Launch Event – *Introductions & Vision*
+   Laura Rai: *The neurocognition of liveness*
+   Tatia Buidze: *Neural encoding of communicative surprise: A model-based EEG approach*
 
 ## Join Us!
 
