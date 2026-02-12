@@ -21,10 +21,17 @@ We are a hub for researchers at **University College London** focused on electro
 > * **Date:** March 10
 > * **Time:** 14:30
 
+## Past Events
+
+* **20 Jan 2026** | **Jason Da Silva Castanheira** | *Rapid Invisible Frequency Tagging to Track the Neural Dynamics of Subjective Experiences*
+* **25 Nov 2025** | **Launch Event** | *Introductions & Vision*
+    * **Laura Rai:** *The neurocognition of liveness*
+    * **Tatia Buidze:** *Neural encoding of communicative surprise: A model-based EEG approach*
+
 ## Join Us!
 
 Since we are just getting started, we are actively looking for new members to join the conversation!
 
 >
 > * **Microsoft Teams (from within UCL):** [**Click here to join the Channel**](https://liveuclac.sharepoint.com/:u:/r/sites/UCL-EEGcommunity-Admin/Shared%20Documents/Admin/Links/Teams%20link.url?csf=1&web=1&e=HPm0Tj)
-> * **Email:** t.buidze@ucl.ac.uk.
+> * **Email:** t.buidze@ucl.ac.uk
