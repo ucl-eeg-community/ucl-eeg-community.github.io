@@ -35,4 +35,4 @@ Since we are just getting started, we are actively looking for new members to jo
 
 >
 > * **Microsoft Teams (from within UCL):** [**Click here to join the Channel**](https://liveuclac.sharepoint.com/:u:/r/sites/UCL-EEGcommunity-Admin/Shared%20Documents/Admin/Links/Teams%20link.url?csf=1&web=1&e=HPm0Tj)
-> * **Email:** t.buidze@ucl.ac.uk
+> * **Email:** landaulab@ucl.ac.uk
