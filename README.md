@@ -14,6 +14,7 @@ We are a hub for researchers at **University College London** focused on electro
 > * **Date:** Tuesday, February 24, 2026
 > * **Time:** 14:30
 > * **Location:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square
+> * **Zoom:** This will be a hybrid event. You can join online via [this link](https://ucl.zoom.us/j/91855791742?pwd=uMieULwsGu1DHajfENH0DRom9ba7yQ.1).
 
 ### Methods Meeting: "Isolation, impedance, and interference. The good, the bad, and the ugly of EEG interfacing"
 >
