@@ -8,22 +8,23 @@ We are a hub for researchers at **University College London** focused on electro
 
 ## Upcoming Events
 
-### Seminar: "How movement and cognition are linked – Evidence from Mobile EEG"
+### Seminar: "Neural tracking in the auditory system."
 >
-> * **Speaker:** Barbara Haendel, University of Würzburg
-> * **Date:** Tuesday, February 24, 2026
+> * **Speaker:** Adele Simon, University College London
+> * **Date:** Tuesday, March 24, 2026
 > * **Time:** 14:30
 > * **Location:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square
-> * **Zoom:** This will be a hybrid event. You can join online via [this link](https://ucl.zoom.us/j/91855791742?pwd=uMieULwsGu1DHajfENH0DRom9ba7yQ.1).
 
 ### Methods Meeting: "Isolation, impedance, and interference. The good, the bad, and the ugly of EEG interfacing"
 >
 > * **Speaker:** Gordon Mills, UCL Division of Psychology and Language Sciences (PALS)
 > * **Date:** March 10
 > * **Time:** 14:30
+> * **Location:** Room 739 in IOE - Bedford Way (20)
+
 
 ## Past Events
-
+* **24 Feb 2026:** Barbara Haendel – *How movement and cognition are linked – Evidence from Mobile EEG*
 * **20 Jan 2026:** Jason Da Silva Castanheira – *Rapid Invisible Frequency Tagging to Track the Neural Dynamics of Subjective Experiences*
 * **25 Nov 2025:** Launch Event – *Introductions & Vision*
   * Laura Rai: *The neurocognition of liveness*
