@@ -8,14 +8,15 @@ We are a hub for researchers at **University College London** focused on electro
 
 ## Upcoming Events
 
-### Seminar: "Linear modelling for Auditory EEG: Moving from discrete Epochs to continuous Streams."
+### Seminar: "Triggering and synchronisation techniques for EEG. Is that really the time?"
 >
-> * **Speaker:** Adele Simon, University College London
-> * **Date:** Tuesday, March 24, 2026
-> * **Time:** 14:30
+> * **Speaker:** Gordon Mills, University College London
+> * **Date:** Wednesday, April 29, 2026
+> * **Time:** 15:00
 > * **Location:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square
 
 ## Past Events
+* **24 Mar 2026:** Adele Simon – *Linear modelling for Auditory EEG: Moving from discrete Epochs to continuous Streams*
 * **10 Mar 2026:** Gordon Mills – *Isolation, impedance, and interference. The good, the bad, and the ugly of EEG interfacing*
 * **24 Feb 2026:** Barbara Haendel – *How movement and cognition are linked – Evidence from Mobile EEG*
 * **20 Jan 2026:** Jason Da Silva Castanheira – *Rapid Invisible Frequency Tagging to Track the Neural Dynamics of Subjective Experiences*
