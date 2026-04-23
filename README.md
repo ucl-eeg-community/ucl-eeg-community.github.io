@@ -15,6 +15,14 @@ We are a hub for researchers at **University College London** focused on electro
 > * **Time:** 15:00
 > * **Location:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square
 
+### Methods meeting: "Artefacts - the story of my life"
+>
+> * **Speaker:** Vladimir Litvak, University College London
+> * **Date:** Tuesday, May 5, 2026
+> * **Time:** 14:30
+> * **Location:** Room 312, 26 Bedford Way
+
+
 ## Past Events
 * **24 Mar 2026:** Adele Simon – *Linear modelling for Auditory EEG: Moving from discrete Epochs to continuous Streams*
 * **10 Mar 2026:** Gordon Mills – *Isolation, impedance, and interference. The good, the bad, and the ugly of EEG interfacing*
