@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/ucl-eeg-community/ucl-eeg-community.github.io/main/logo.png" 
-     alt="UCL EEG Logo" 
-     style="position: absolute; top: -230px; left: -260px; width: 330px; z-index: 9999; box-shadow: none; background: transparent;">
+<img src="https://raw.githubusercontent.com/ucl-eeg-community/ucl-eeg-community.github.io/main/logo.png" 
+     alt="UCL EEG Logo" 
+     style="position: absolute; top: -230px; left: -260px; width: 330px; z-index: 9999; box-shadow: none; background: transparent;">
 
 # Welcome to the UCL-EEG Community
 
@@ -15,14 +15,21 @@ We are a hub for researchers at **University College London** focused on electro
 > * **Time:** 15:00
 > * **Location:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square
 
+### Methods meeting: "Artefacts - the story of my life"
+>
+> * **Speaker:** Vladimir Litvak, University College London
+> * **Date:** Tuesday, May 5, 2026
+> * **Time:** 14:30
+> * **Location:** Room 312, 26 Bedford Way
+
 ## Past Events
 * **24 Mar 2026:** Adele Simon – *Linear modelling for Auditory EEG: Moving from discrete Epochs to continuous Streams*
 * **10 Mar 2026:** Gordon Mills – *Isolation, impedance, and interference. The good, the bad, and the ugly of EEG interfacing*
 * **24 Feb 2026:** Barbara Haendel – *How movement and cognition are linked – Evidence from Mobile EEG*
 * **20 Jan 2026:** Jason Da Silva Castanheira – *Rapid Invisible Frequency Tagging to Track the Neural Dynamics of Subjective Experiences*
 * **25 Nov 2025:** Launch Event – *Introductions & Vision*
-  * Laura Rai: *The neurocognition of liveness*
-  * Tatia Buidze: *Neural encoding of communicative surprise: A model-based EEG approach*
+  * Laura Rai: *The neurocognition of liveness*
+  * Tatia Buidze: *Neural encoding of communicative surprise: A model-based EEG approach*
 
 ## Join Us!
 
