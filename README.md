@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/ucl-eeg-community/ucl-eeg-community.github.io/main/logo.png" 
-     alt="UCL EEG Logo" 
-     style="position: absolute; top: -230px; left: -260px; width: 330px; z-index: 9999; box-shadow: none; background: transparent;">
+<img src="https://raw.githubusercontent.com/ucl-eeg-community/ucl-eeg-community.github.io/main/logo.png" 
+     alt="UCL EEG Logo" 
+     style="position: absolute; top: -230px; left: -260px; width: 330px; z-index: 9999; box-shadow: none; background: transparent;">
 
 # Welcome to the UCL-EEG Community
 
@@ -21,8 +21,8 @@ We are a hub for researchers at **University College London** focused on electro
 * **24 Feb 2026:** Barbara Haendel – *How movement and cognition are linked – Evidence from Mobile EEG*
 * **20 Jan 2026:** Jason Da Silva Castanheira – *Rapid Invisible Frequency Tagging to Track the Neural Dynamics of Subjective Experiences*
 * **25 Nov 2025:** Launch Event – *Introductions & Vision*
-  * Laura Rai: *The neurocognition of liveness*
-  * Tatia Buidze: *Neural encoding of communicative surprise: A model-based EEG approach*
+  * Laura Rai: *The neurocognition of liveness*
+  * Tatia Buidze: *Neural encoding of communicative surprise: A model-based EEG approach*
 
 ## Join Us!
 
