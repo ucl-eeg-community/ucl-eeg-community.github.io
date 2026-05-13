@@ -13,7 +13,7 @@ We are a hub for researchers at **University College London** focused on electro
 > * **Speaker:** Chris Timmerman Slater, University College London
 > * **Date:** Tuesday, June 16, 2026
 > * **Time:** 15:00
-> * **Location:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square
+> * **Location:** Room 113, Bedford Way 26
 
 ## Past Events
 * **5 May 2026:** Vladimir Litvak – *Artefacts - the story of my life*
