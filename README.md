@@ -8,22 +8,16 @@ We are a hub for researchers at **University College London** focused on electro
 
 ## Upcoming Events
 
-### Seminar: "Triggering and synchronisation techniques for EEG. Is that really the time?"
+### Seminar: "Tracking Conscious Experience: EEG Dynamics and Experience Sampling under Psychedelics"
 >
-> * **Speaker:** Gordon Mills, University College London
-> * **Date:** Wednesday, April 29, 2026
+> * **Speaker:** Chris Timmerman Slater, University College London
+> * **Date:** Tuesday, June 16, 2026
 > * **Time:** 15:00
 > * **Location:** 4th Floor Seminar Room, Functional Imaging Laboratory (FIL), 12 Queen Square
 
-### Methods meeting: "Artefacts - the story of my life"
->
-> * **Speaker:** Vladimir Litvak, University College London
-> * **Date:** Tuesday, May 5, 2026
-> * **Time:** 14:30
-> * **Location:** Room 312, 26 Bedford Way
-
-
 ## Past Events
+* **5 May 2026:** Vladimir Litvak – *Artefacts - the story of my life*
+* **29 Apr 2026:** Gordon Mills – *Triggering and synchronisation techniques for EEG. Is that really the time?*
 * **24 Mar 2026:** Adele Simon – *Linear modelling for Auditory EEG: Moving from discrete Epochs to continuous Streams*
 * **10 Mar 2026:** Gordon Mills – *Isolation, impedance, and interference. The good, the bad, and the ugly of EEG interfacing*
 * **24 Feb 2026:** Barbara Haendel – *How movement and cognition are linked – Evidence from Mobile EEG*
