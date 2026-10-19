@@ -4,20 +4,17 @@
 
 # Welcome to the UCL-EEG Community
 
-We are a hub for researchers at **University College London** focused on electroencephalography (EEG), signal processing, and neuroimaging. our goal is to connect researchers across divisions, share knowledge, and build a friendly and supportive network for anyone working with or interested in EEG methods.
+We are a hub for researchers at **University College London** focused on electroencephalography (EEG), signal processing, and neuroimaging. Our goal is to connect researchers across divisions, share knowledge, and build a friendly and supportive network for anyone working with or interested in EEG methods.
 
-## Upcoming Lab Visits
+## Upcoming Events
 
-* **November 3** | 15:00 | Lab Visit
-* **December 1** | 15:00 | Lab Visit & Seminar
-
-## Upcoming Seminars
-
-* **January 12, 2026** | 15:00 | Speaker: TBA | Topic: TBA
-* **February 2, 2026** | 15:00 | Speaker: TBA | Topic: TBA
-* **March 2, 2026** | 15:00 | Speaker: TBA | Topic: TBA
-* **May 4, 2026** | 15:00 | Speaker: Xena Liu | Topic: TBA
-* **June 1, 2026** | 15:00 | Speaker: Tatia Buidze | Topic: TBA
+* **November 3** | 15:00 | Lab visit + Seminar | Speaker: Maria Chait[cite: 11]
+* **December 1** | 15:00 | Lab visit | Speaker: TBA[cite: 11]
+* **January 12** | 15:00 | Seminar + Lab visit | Speaker: Ana Rozman[cite: 11]
+* **February 2** | 15:00 | Seminar | Speaker: Ana Campos[cite: 11]
+* **March 2** | 15:00 | Lab visit | Speaker: TBA[cite: 11]
+* **May 4** | 15:00 | Seminar | Speaker: Xena Liu[cite: 11]
+* **June 1** | 15:00 | Seminar | Speaker: Tatia Buidze[cite: 11]
 
 ## Past Events
 
