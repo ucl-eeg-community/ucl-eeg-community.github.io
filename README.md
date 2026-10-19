@@ -4,18 +4,24 @@
 
 # Welcome to the UCL-EEG Community
 
-We are a hub for researchers at **University College London** focused on electroencephalography (EEG), signal processing, and neuroimaging. Our goal is to connect researchers across divisions, share knowledge, and build a friendly and supportive network for anyone working with or interested in EEG methods.
+We are a hub for researchers at **University College London** focused on electroencephalography (EEG), signal processing, and neuroimaging. our goal is to connect researchers across divisions, share knowledge, and build a friendly and supportive network for anyone working with or interested in EEG methods.
 
-## Upcoming Events
+## Upcoming Lab Visits
 
-### Seminar: "Tracking Conscious Experience: EEG Dynamics and Experience Sampling under Psychedelics"
->
-> * **Speaker:** Chris Timmerman Slater, University College London
-> * **Date:** Tuesday, June 16, 2026
-> * **Time:** 15:00
-> * **Location:** Room 113, Bedford Way 26
+* **November 3** | 15:00 | Lab Visit
+* **December 1** | 15:00 | Lab Visit & Seminar
+
+## Upcoming Seminars
+
+* **January 12, 2026** | 15:00 | Speaker: TBA | Topic: TBA
+* **February 2, 2026** | 15:00 | Speaker: TBA | Topic: TBA
+* **March 2, 2026** | 15:00 | Speaker: TBA | Topic: TBA
+* **May 4, 2026** | 15:00 | Speaker: Xena Liu | Topic: TBA
+* **June 1, 2026** | 15:00 | Speaker: Tatia Buidze | Topic: TBA
 
 ## Past Events
+
+* **16 Jun 2026:** Chris Timmerman Slater – *Tracking Conscious Experience: EEG Dynamics and Experience Sampling under Psychedelics*
 * **5 May 2026:** Vladimir Litvak – *Artefacts - the story of my life*
 * **29 Apr 2026:** Gordon Mills – *Triggering and synchronisation techniques for EEG. Is that really the time?*
 * **24 Mar 2026:** Adele Simon – *Linear modelling for Auditory EEG: Moving from discrete Epochs to continuous Streams*
