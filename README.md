@@ -8,13 +8,13 @@ We are a hub for researchers at **University College London** focused on electro
 
 ## Upcoming Events
 
-* **November 3** | 15:00 | Lab visit + Seminar | Speaker: Maria Chait[cite: 11]
-* **December 1** | 15:00 | Lab visit | Speaker: TBA[cite: 11]
-* **January 12** | 15:00 | Seminar + Lab visit | Speaker: Ana Rozman[cite: 11]
-* **February 2** | 15:00 | Seminar | Speaker: Ana Campos[cite: 11]
-* **March 2** | 15:00 | Lab visit | Speaker: TBA[cite: 11]
-* **May 4** | 15:00 | Seminar | Speaker: Xena Liu[cite: 11]
-* **June 1** | 15:00 | Seminar | Speaker: Tatia Buidze[cite: 11]
+* **November 3:** Maria Chait – *Ear Institute lab visit and seminar (15:00)*
+* **December 1:** TBA – *LandauLab visit: MirrorPods / hyperscanning setup (15:00)*
+* **January 12:** Ana Rozman – *Seminar and lab visit (15:00)*
+* **February 2:** Ana Campos – *Seminar (15:00)*
+* **March 2:** TBA – *Lab visit (venue TBA) (15:00)*
+* **May 4:** Xena Liu – *Seminar (15:00)*
+* **June 1:** Tatia Buidze – *Seminar (15:00)*
 
 ## Past Events
 
