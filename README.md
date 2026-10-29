@@ -8,7 +8,7 @@ We are a hub for researchers at **University College London** focused on electro
 
 ## Upcoming Events
 
-* **November 3:** Maria Chait – *Ear Institute lab visit and seminar (13:00)*
+* **November 3:** Maria Chait – *Ear Institute lab visit and seminar (13:00)*; Room G37, Lecture Theatre, Ear Institute.
 * **December 1:** Ayelet Landau, Gal Rozic, Tatia Buidze – *LandauLab visit: Dyadic experimentation platform / hyperscanning setup (13:00)*
 * **January 12:** Ana Rozman – *Seminar and lab visit (13:00)*
 * **February 2:** Ana Campos – *Seminar (13:00)*
